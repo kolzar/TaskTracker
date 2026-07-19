@@ -23,8 +23,10 @@ public class TaskRepository : ITaskRepository
     {
         using var connection = CreateConnection();
 
-        return await connection.QueryAsync<TaskItem>(
+        var data = await connection.QueryAsync<TaskItem>(
             "SELECT * FROM Tasks ORDER BY CreatedAt DESC");
+        data = data.Where(task => task.Id != Guid.Empty);
+        return data;
     }
 
     public async Task<TaskItem?> GetByIdAsync(Guid id)

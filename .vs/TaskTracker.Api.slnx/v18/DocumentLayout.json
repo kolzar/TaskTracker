@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "D:\\My\\github\\TaskTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\migrations\\001_convertidtoguid.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:migrations\\001_convertidtoguid.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\tasktracker.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:tasktracker.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:data\\databaseinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\dtos\\updatetaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,12 +19,44 @@
       "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:dtos\\createtaskrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:repositories\\taskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\infrastructure\\dapper\\guidtypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:infrastructure\\dapper\\guidtypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\tasktracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:tasktracker.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\migrations\\001_convertidtoguid.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:migrations\\001_convertidtoguid.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\tasktracker.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:tasktracker.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:repositories\\itaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|d:\\my\\github\\tasktracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AC0E67E-C8F4-D977-E58A-4E51D5ADFC74}|TaskTracker.Api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 291,
-          "SelectedChildIndex": 23,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,56 +130,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "001_ConvertIdToGuid.sql ",
-              "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Migrations\\001_ConvertIdToGuid.sql",
-              "RelativeDocumentMoniker": "Migrations\\001_ConvertIdToGuid.sql",
-              "ToolTip": "D:\\My\\github\\TaskTracker\\Migrations\\001_ConvertIdToGuid.sql",
-              "RelativeToolTip": "Migrations\\001_ConvertIdToGuid.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2026-07-19T17:40:29.506Z",
+              "DocumentIndex": 7,
+              "Title": "GuidTypeHandler.cs",
+              "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Infrastructure\\Dapper\\GuidTypeHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Dapper\\GuidTypeHandler.cs",
+              "ToolTip": "D:\\My\\github\\TaskTracker\\Infrastructure\\Dapper\\GuidTypeHandler.cs",
+              "RelativeToolTip": "Infrastructure\\Dapper\\GuidTypeHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T18:28:51.862Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TaskTracker.Api.csproj",
-              "DocumentMoniker": "D:\\My\\github\\TaskTracker\\TaskTracker.Api.csproj",
-              "RelativeDocumentMoniker": "TaskTracker.Api.csproj",
-              "ToolTip": "D:\\My\\github\\TaskTracker\\TaskTracker.Api.csproj",
-              "RelativeToolTip": "TaskTracker.Api.csproj",
-              "ViewState": "AgIAAAoAAAAAAAAAAABUwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-03T14:38:48.899Z"
+              "DocumentIndex": 9,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\My\\github\\TaskTracker\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\My\\github\\TaskTracker\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-07-19T17:50:08.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "TaskTracker.Api.csproj",
+              "DocumentMoniker": "D:\\My\\github\\TaskTracker\\TaskTracker.Api.csproj",
+              "RelativeDocumentMoniker": "TaskTracker.Api.csproj",
+              "ToolTip": "D:\\My\\github\\TaskTracker\\TaskTracker.Api.csproj*",
+              "RelativeToolTip": "TaskTracker.Api.csproj*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-03T14:38:48.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "TasksController.cs",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
               "ToolTip": "D:\\My\\github\\TaskTracker\\Controllers\\TasksController.cs",
               "RelativeToolTip": "Controllers\\TasksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T14:32:47.939Z"
+              "WhenOpened": "2026-07-03T14:32:47.939Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "TaskRepository.cs",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Repositories\\TaskRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\TaskRepository.cs",
               "ToolTip": "D:\\My\\github\\TaskTracker\\Repositories\\TaskRepository.cs",
               "RelativeToolTip": "Repositories\\TaskRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-03T14:09:11.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "ITaskRepository.cs",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Repositories\\ITaskRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ITaskRepository.cs",
@@ -191,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DatabaseInitializer.cs",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Data\\DatabaseInitializer.cs",
               "RelativeDocumentMoniker": "Data\\DatabaseInitializer.cs",
@@ -204,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "UpdateTaskRequest.cs",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Dtos\\UpdateTaskRequest.cs",
               "RelativeDocumentMoniker": "Dtos\\UpdateTaskRequest.cs",
@@ -212,11 +228,12 @@
               "RelativeToolTip": "Dtos\\UpdateTaskRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T14:07:19.082Z"
+              "WhenOpened": "2026-07-03T14:07:19.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "CreateTaskRequest.cs",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Dtos\\CreateTaskRequest.cs",
               "RelativeDocumentMoniker": "Dtos\\CreateTaskRequest.cs",
@@ -224,24 +241,25 @@
               "RelativeToolTip": "Dtos\\CreateTaskRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T14:06:53.963Z"
+              "WhenOpened": "2026-07-03T14:06:53.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TaskItem.cs",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Models\\TaskItem.cs",
               "RelativeDocumentMoniker": "Models\\TaskItem.cs",
               "ToolTip": "D:\\My\\github\\TaskTracker\\Models\\TaskItem.cs",
               "RelativeToolTip": "Models\\TaskItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-03T14:06:18.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -253,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -265,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "TaskTracker.Api.http",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\TaskTracker.Api.http",
               "RelativeDocumentMoniker": "TaskTracker.Api.http",
@@ -277,15 +295,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My\\github\\TaskTracker\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\My\\github\\TaskTracker\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-03T13:43:14.97Z"
+              "WhenOpened": "2026-07-03T13:43:14.97Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,7 +1,8 @@
-using TaskTracker.Api.Data;
+using Dapper;
 using SQLitePCL;
+using TaskTracker.Api.Data;
+using TaskTracker.Api.Infrastructure.Dapper;
 using TaskTracker.Api.Repositories;
-using Swashbuckle.AspNetCore.Swagger;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +15,8 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<DatabaseInitializer>();
 builder.Services.AddScoped<ITaskRepository, TaskRepository>();
+
+SqlMapper.AddTypeHandler(new GuidTypeHandler());
 
 var app = builder.Build();
 
